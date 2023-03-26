@@ -61,10 +61,10 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 62c461a3-23e5-4295-8d3e-412d5dfeb618))
   (fp_arc (start 1.2 0.9) (mid 1.112132 1.112132) (end 0.9 1.2)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c24c54fb-1fc9-471d-827b-b6b087fdd15b))
-  (pad "1" smd rect (at 0 -1.125) (size 3.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9eeed0f9-402d-4d68-9b93-aa2e508ad5ee))
-  (pad "1" smd rect (at 0 0.775) (size 2.8 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfae2e89-43c2-4db3-8f7d-78937bea6625))
+  (pad "1" smd rect (at 0 0.5) (size 2.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bfae2e89-43c2-4db3-8f7d-78937bea6625))
   (pad "1" smd rect (at 0 1.125) (size 3.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e24a64d-a980-432c-ab17-0cdfc49d7978))
-  (pad "2" smd rect (at 0 -0.775) (size 2.8 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9a87d4ad-0220-4312-a3ad-49c83bf4c9c7))
+  (pad "2" smd rect (at 0 -1.125) (size 3.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9eeed0f9-402d-4d68-9b93-aa2e508ad5ee))
+  (pad "2" smd rect (at 0 -0.5) (size 2.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9a87d4ad-0220-4312-a3ad-49c83bf4c9c7))
   (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3x2mm_KA.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
